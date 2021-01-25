@@ -37,7 +37,6 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>React CRUD App with Hooks</h1>
       <div className="row">
         <div className="five columns">
           {editing ? (
